@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+.flexcontainer {
+    display: flex;
+    margin: 5% 10% 10px 10%;
+}
+
+.backimg {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#size {
+    font-size: 30px;
+}
+
+body p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.textstylehead {
+    font-size: 55px;
+    text-align: center;
+    color: azure;
+    padding: 8%;
+}
+
+.buttonstyl {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-image: linear-gradient(rgb(233, 52, 52), rgb(235, 139, 139));
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.textstyl {
+    text-align: center;
+    margin: 5% 10%;
+    padding: 5%;
+    align-items: center;
+    justify-content: center;
+}
+
+.textstyl p {
+    margin: 0% 20%;
+}
+
+.mark {
+    border: 3px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+    background-color: rgba(255, 3, 3, 0.185);
+}
+
+.divide {
+    width: 50%;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 5%;
+    text-align: center;
+    font-size: 30px;
+    align-items: center;
+}
+
+.textcenter {
+    text-align: center;
+    text-align: center;
+    margin: 0% 30%;
+}
+
+.styles {
+    width: 30%;
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+
+#gap {
+    margin-top: 50px;
+}
+
+.imagesize img {
+    width: 250px;
+    height: 250px;
+}
+
+.tab1 {
+    background-color: rgba(0, 255, 255, 0.164);
+    margin-right: 20px;
+    padding: 5% 5% 1.5% 10%;
+    border-radius: 20px;
+
+}
+
+.tab2 {
+    background-color: rgba(165, 42, 42, 0.253);
+    padding: 5% 5% 1.5% 10%;
+    border-radius: 20px;
+}
+
+.tab3 {
+    background-color: #80ff004f;
+    margin-left: 20px;
+    padding: 5% 5% 1.5% 10%;
+    border-radius: 20px;
+}
+
+.for3sect {
+    width: 33%;
+    padding-left: 10px;
+}
+
+.imagesize img {
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-top: 10px;
+    margin-bottom: -50px;
+    line-height: 100px;
+}
+
+.textcolor {
+    color: chocolate;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+}
+
+.sizes {
+    font-size: 45px;
+}
